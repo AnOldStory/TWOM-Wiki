@@ -1,0 +1,139 @@
+@import "_variables.scss";
+
+/*
+ SCROLL 
+ */
+
+/*  width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* background */
+::-webkit-scrollbar-track {
+  background-color: $scroll-background;
+}
+
+/* bar color */
+::-webkit-scrollbar-thumb {
+  background: $scroll-background-bar;
+}
+
+/* Disable Button */
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+/* loading mark */
+.loading {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  border: 8px solid $loading-one;
+  border-top: 8px solid $loading-two;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  animation: spin 2s linear infinite;
+}
+
+/* title */
+.Title {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: $background;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 10px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes sizeUp {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(5);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: scale(1) rotate(0deg);
+  }
+  50% {
+    transform: scale(1.3) rotate(180deg);
+  }
+  to {
+    transform: scale(1) rotate(360deg);
+  }
+}
+
+@keyframes leftIn {
+  from {
+    opacity: 0;
+    transform: translate3d(-100%, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes leftOut {
+  from {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+@keyframes rightIn {
+  from {
+    opacity: 0;
+    transform: translate3d(100%, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes rightOut {
+  from {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translate3d(100%, 0, 0);
+  }
+}

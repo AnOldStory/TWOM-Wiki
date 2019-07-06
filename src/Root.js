@@ -1,9 +1,11 @@
 import React from "react";
+
+import Router from "./app/routes/router";
+
 function Root() {
   return (
-    <div className="App">
-      helloworld
-      <div />
+    <div className="Root">
+      <Router />
     </div>
   );
 }
