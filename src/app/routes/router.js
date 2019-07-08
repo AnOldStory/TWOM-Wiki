@@ -7,7 +7,7 @@ import Title from "app/components/main/Title";
 export default class router extends Component {
   render() {
     return (
-      <BrowserRouter basename="">
+      <BrowserRouter basename="/TWOM-Wiki">
         <>
           <Title />
           <Route exact path="/" component={MainContainer} />
