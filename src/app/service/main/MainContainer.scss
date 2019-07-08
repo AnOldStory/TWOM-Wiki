@@ -1,1 +1,30 @@
 @import "./variables.scss";
+
+.Main {
+}
+
+.Map-name {
+  margin: 24px 8px 8px 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  font-weight: 700;
+  color: $Map-name;
+}
+
+.Map-name::after {
+  margin-left: 30px;
+  display: inline-block;
+  content: "";
+  vertical-align: middle;
+  height: 1px;
+  background: $Map-name-line;
+  width: 100%;
+}
+
+.Monster {
+  margin: 8px;
+  padding: 8px;
+  border-radius: 2px;
+  background: $Monster-background;
+  @include box-shadow;
+}

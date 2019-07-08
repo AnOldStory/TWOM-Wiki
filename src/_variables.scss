@@ -6,6 +6,15 @@ $scroll-background-bar: #f0f0f0;
 
 $background: #f1f1f1;
 
+$Map-name: rgba(134, 83, 216, 0.952);
+$Map-name-line: linear-gradient(
+  to right,
+  rgba(0, 225, 255, 0.35),
+  rgba(255, 0, 225, 0.35)
+);
+
+$Monster-background: #fff;
+
 @mixin box-shadow() {
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
