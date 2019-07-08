@@ -15,6 +15,7 @@ export default class Monster extends Component {
     return (
       <div className="Monster">
         <div className="Monster-name">{this.props.name}</div>
+        <img src={"img/" + this.props.name + ".png"} alt="img" />
         {/* <div className="Monster-lvl">{console.log(this.props.info)}</div> */}
       </div>
     );

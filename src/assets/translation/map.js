@@ -171,7 +171,6 @@ export const mapInfo = {
     ],
     "Ancient Palace": [
       "Sky Bat",
-      "Sky Castle",
       "Silver Bat",
       "IPot",
       "Puppet",
@@ -180,7 +179,6 @@ export const mapInfo = {
     ],
     "Western Sky Castle": [
       "Goblin",
-      "Sky Castle",
       "Couatl",
       "Kobold",
       "Goblin Warrior",
@@ -190,7 +188,6 @@ export const mapInfo = {
     ],
     "Eastern Sky Castle": [
       "Orb",
-      "Sky Castle",
       "Storm",
       "Bulette",
       "Tank",
@@ -201,7 +198,6 @@ export const mapInfo = {
     ],
     "Stone Fortress": [
       "Solid Rock",
-      "Sky Castle",
       "Gargoyle",
       "Golem",
       "Black Gargoyle",
@@ -210,7 +206,6 @@ export const mapInfo = {
     ],
     "Unknown Maze": [
       "Aroid",
-      "Sky Castle",
       "Iron Golem",
       "Robot",
       "Humanoid",
@@ -228,7 +223,6 @@ export const mapInfo = {
     ],
     "Temple of Wingfril": [
       "Crystal Stone",
-      "Temple of Wingfril",
       "Yeti",
       "Wing Elemental",
       "Crystal Spider",
@@ -243,7 +237,6 @@ export const mapInfo = {
     ],
     "Polluted Forest": [
       "Enraged Tree",
-      "Polluted Forest",
       "Smack",
       "Man-eating Mushroom",
       "Mutated Bee",
@@ -254,7 +247,6 @@ export const mapInfo = {
     ],
     "Marsh of Death": [
       "Young Froggy Swarm",
-      "Marsh of Death",
       "Poisonous Man-eating Mushroom",
       "Zombie",
       "Mutated Lobster",
@@ -265,7 +257,6 @@ export const mapInfo = {
     ],
     "Maze Forest": [
       "Ancient Elf Crystal",
-      "Maze Forest",
       "Plague Zombie",
       "Egg Monster",
       "Banshee",
@@ -307,7 +298,6 @@ export const mapInfo = {
     ],
     "Forgotten Cave": [
       "Poison Lizard",
-      "Forgotten Cave",
       "Big Eyed Soul",
       "Dark Imp",
       "Poison Mummy",
