@@ -17,6 +17,7 @@ export default class MainContainer extends Component {
     this.state = {
       lang: "en",
       keyword: "",
+      keywordlang: false,
       sort: "normal"
     };
     this.handleLang = this.handleLang.bind(this);
@@ -51,8 +52,30 @@ export default class MainContainer extends Component {
 
   handleKeyword(value) {
     this.setState({
-      keyword: value
+      keyword: value,
+      keywordlang: /[ㄱ-ㅎ|ㅏ-ㅣ|가-힣]/.test(this.state.keyword)
     });
+  }
+
+  validCheck(monsterName) {
+    return !this.state.keyword
+      ? false
+      : this.state.keywordlang
+      ? monsterInfo[monsterName]["kr"]
+          .replace(" ", "")
+          .indexOf(this.state.keyword.replace(" ", "")) === -1
+      : monsterInfo[monsterName]["en"]
+          .toUpperCase()
+          .replace(" ", "")
+          .indexOf(this.state.keyword.toUpperCase().replace(" ", "")) === -1;
+  }
+
+  mapCheck(mapName) {
+    return (
+      mapInfo[mapName]["mobs"].filter(
+        monsterName => !this.validCheck(monsterName)
+      ).length === 0
+    );
   }
 
   makeList() {
@@ -60,57 +83,22 @@ export default class MainContainer extends Component {
     let indexList = [];
     Object.keys(mapInfo).forEach((mapName, i) => {
       /* Monsters*/
-      let monsterList = mapInfo[mapName]["mobs"].filter(
-        monsterName =>
-          monsterName
-            .toUpperCase()
-            .indexOf(this.state.keyword.toUpperCase()) !== -1
+      indexList.push(
+        <div key={i}>
+          <Map
+            name={mapInfo[mapName][this.state.lang]}
+            disable={this.mapCheck(mapName)}
+          />
+          {mapInfo[mapName]["mobs"].map((monsterName, j) => (
+            <Monster
+              info={monsterInfo[monsterName]}
+              lang={this.state.lang}
+              key={j}
+              disable={this.validCheck(monsterName)}
+            />
+          ))}
+        </div>
       );
-      if (monsterList.length !== 0) {
-        if (this.state.sort === "normal") {
-          indexList.push(
-            <div key={i}>
-              <Map name={mapName} />
-              {monsterList.map((monsterName, j) => (
-                <Monster
-                  info={monsterInfo[monsterName]}
-                  lang={this.state.lang}
-                  key={j}
-                />
-              ))}
-            </div>
-          );
-        } else if (this.state.sort === "level") {
-          indexList.push(
-            <div key={i}>
-              {monsterList.sort().map((monsterName, j) => (
-                <Monster
-                  info={monsterInfo[monsterName]}
-                  lang={this.state.lang}
-                  key={j}
-                />
-              ))}
-            </div>
-          );
-        }
-      } else {
-        if (
-          mapName.toUpperCase().indexOf(this.state.keyword.toUpperCase()) !== -1
-        ) {
-          indexList.push(
-            <div key={i}>
-              <Map name={mapName} />
-              {mapInfo[mapName]["mobs"].map((monsterName, j) => (
-                <Monster
-                  info={monsterInfo[monsterName]}
-                  lang={this.state.lang}
-                  key={j}
-                />
-              ))}
-            </div>
-          );
-        }
-      }
     });
 
     return indexList;

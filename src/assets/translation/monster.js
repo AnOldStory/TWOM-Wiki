@@ -10,7 +10,7 @@
 export const monsterInfo = {
   Kooii: {
     en: "Kooii",
-    kr: "",
+    kr: "쿠이",
     level: 1,
     "attack range": 0,
     "attack style": 0,

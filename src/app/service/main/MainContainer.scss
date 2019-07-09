@@ -21,6 +21,13 @@
   width: 100%;
 }
 
+div[class^="Monster-"] {
+  vertical-align: middle;
+  display: inline-block;
+  text-align: center;
+  min-width: 10%;
+}
+
 .Monster {
   margin: 8px;
   padding: 8px;
@@ -29,9 +36,15 @@
   @include box-shadow;
 }
 
-div[class^="Monster-"] {
-  vertical-align: middle;
-  display: inline-block;
-  text-align: center;
-  width: 11%;
+.Monster-name {
+  width: 100px;
+  word-wrap: break-word;
+}
+
+.Monster-image {
+  width: 100px;
+}
+
+.disable {
+  display: none;
 }

@@ -11,16 +11,12 @@ import React, { Component } from "react";
 */
 
 export default class Monster extends Component {
-  constructor(props) {
-    super(props);
-    this.state = this.props.info;
-  }
   render() {
     return (
-      <div className="Monster">
-        <div className="Monster-name">{this.state[this.props.lang]}</div>
+      <div className={"Monster " + (this.props.disable ? "disable" : "")}>
+        <div className="Monster-name">{this.props.info[this.props.lang]}</div>
         <div className="Monster-image">
-          <img src={"img/" + this.state.en + ".png"} alt="img" />
+          <img src={"img/" + this.props.info.en + ".png"} alt="img" />
         </div>
         <div className="Monster-level">14</div>
         <div className="Monster-range">근거리</div>
