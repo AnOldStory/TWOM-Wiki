@@ -1,6 +1,8 @@
 export const mapInfo = {
-  en: {
-    "Woody-Weedy Forest/Woody-Wordy Forest": [
+  "Woody-Weedy Forest/Woody-Wordy Forest": {
+    en: "Woody-Weedy Forest/Woody-Wordy Forest",
+    kr: "",
+    mobs: [
       "Kooii",
       "Bramble Donguri",
       "Leaf Boar",
@@ -8,8 +10,12 @@ export const mapInfo = {
       "Bulldozer Jr.",
       "BULLDOZER",
       "BULLDOZER'S BROTHER"
-    ],
-    "Mushroom Marshland": [
+    ]
+  },
+  "Mushroom Marshland": {
+    en: "Mushroom Marshland",
+    kr: "",
+    mobs: [
       "Swamp Mushroom",
       "Flower Elemental",
       "Swamp Boar",
@@ -17,16 +23,24 @@ export const mapInfo = {
       "Poisonous Spider",
       "White Spider",
       "FUNGUS KING"
-    ],
-    "Mushroom Spore Cave": [
+    ]
+  },
+  "Mushroom Spore Cave": {
+    en: "Mushroom Spore Cave",
+    kr: "",
+    mobs: [
       "Cave Mushroom",
       "Poisonous Mushroom",
       "Mushroom Flower",
       "Cave Bat",
       "White Bat",
       "POISON FUNGUS KING"
-    ],
-    "Wingfril Island Beach": [
+    ]
+  },
+  "Wingfril Island Beach": {
+    en: "Wingfril Island Beach",
+    kr: "",
+    mobs: [
       "Bottle",
       "Red Crab",
       "Sandman",
@@ -35,8 +49,12 @@ export const mapInfo = {
       "Mutant Woopa",
       "CHIEF WOOPAROOPA",
       "TURTLE Z"
-    ],
-    "Island with the Lighthouse": [
+    ]
+  },
+  "Island with the Lighthouse": {
+    en: "Island with the Lighthouse",
+    kr: "",
+    mobs: [
       "Bottle",
       "Red Crab",
       "Woopa",
@@ -44,8 +62,12 @@ export const mapInfo = {
       "Mutant Woopa",
       "CHIEF WOOPAROOPA",
       "TURTLE ZZZ"
-    ],
-    "Lighthouse Dungeon 1F": [
+    ]
+  },
+  "Lighthouse Dungeon 1F": {
+    en: "Lighthouse Dungeon 1F",
+    kr: "",
+    mobs: [
       "Testing Woopa",
       "Marsh Donguri",
       "RECLUSE",
@@ -55,8 +77,12 @@ export const mapInfo = {
       "Gray Skeleton",
       "SMALL SKELETON",
       "BLACKSKULL"
-    ],
-    "Lighthouse Dungeon 2F": [
+    ]
+  },
+  "Lighthouse Dungeon 2F": {
+    en: "Lighthouse Dungeon 2F",
+    kr: "",
+    mobs: [
       "Skeleton",
       "Beholder",
       "Drunken Kooii",
@@ -64,8 +90,12 @@ export const mapInfo = {
       "Sleepy Kooii",
       "WHITESKULL",
       "AWAKEN KOOII"
-    ],
-    "Lighthouse Dungeon 3F": [
+    ]
+  },
+  "Lighthouse Dungeon 3F": {
+    en: "Lighthouse Dungeon 3F",
+    kr: "",
+    mobs: [
       "Ghost",
       "Snaketail Lizard",
       "SNAKEZARD",
@@ -75,8 +105,12 @@ export const mapInfo = {
       "EEHEEHEE",
       "OOHEEHEEK",
       "OOHEHE"
-    ],
-    "Lighthouse Dungeon 4F": [
+    ]
+  },
+  "Lighthouse Dungeon 4F": {
+    en: "Lighthouse Dungeon 4F",
+    kr: "",
+    mobs: [
       "Dark Beholder",
       "Imp",
       "Bloody Flower",
@@ -86,23 +120,39 @@ export const mapInfo = {
       "Dong Dong",
       "Dung Dung",
       "GUARDIAN IMP"
-    ],
-    "Lighthouse Dungeon 5F": [
+    ]
+  },
+  "Lighthouse Dungeon 5F": {
+    en: "Lighthouse Dungeon 5F",
+    kr: "",
+    mobs: [
       "Bloody Flower",
       "Bloody Mind",
       "Mummy",
       "Elite Imp",
       "Mummy Fighter",
       "DEVILANG"
-    ],
-    "Pirate Ship 1F": ["Broom", "Sweeper", "Treasure Chest", "Pirate Skeleton"],
-    "Pirate Ship 2F": [
+    ]
+  },
+  "Pirate Ship 1F": {
+    en: "Pirate Ship 1F",
+    kr: "",
+    mobs: ["Broom", "Sweeper", "Treasure Chest", "Pirate Skeleton"]
+  },
+  "Pirate Ship 2F": {
+    en: "Pirate Ship 2F",
+    kr: "",
+    mobs: [
       "Treasure Chest",
       "Pirate Skeleton",
       "Pirate Ghost",
       "BOATSWAIN BRANKA"
-    ],
-    "Lanos Plains": [
+    ]
+  },
+  "Lanos Plains": {
+    en: "Lanos Plains",
+    kr: "",
+    mobs: [
       "Continent Bulldozer",
       "Blaster",
       "Crow",
@@ -110,8 +160,12 @@ export const mapInfo = {
       "Redeye Gosumi",
       "Bloody Gosumi",
       "WHITE CROW"
-    ],
-    "Forest with Ruins": [
+    ]
+  },
+  "Forest with Ruins": {
+    en: "Forest with Ruins",
+    kr: "",
+    mobs: [
       "Mutant Gosumi",
       "Berserk Gosumi",
       "Large Spider",
@@ -119,8 +173,12 @@ export const mapInfo = {
       "Big Boar",
       "Wildboar",
       "GHOSTSNAKE"
-    ],
-    "Arid Grassland": [
+    ]
+  },
+  "Arid Grassland": {
+    en: "Arid Grassland",
+    kr: "",
+    mobs: [
       "Cactus Bee",
       "Sand Donguri",
       "Bizizi",
@@ -130,8 +188,12 @@ export const mapInfo = {
       "Stealth",
       "Desert Assassin",
       "BSSSZSSS"
-    ],
-    "Forest of Grave": [
+    ]
+  },
+  "Forest of Grave": {
+    en: "Forest of Grave",
+    kr: "",
+    mobs: [
       "Fox",
       "Mature Fox",
       "Red Fox",
@@ -139,8 +201,12 @@ export const mapInfo = {
       "Sunset Flower",
       "Sunrise Flower",
       "777TAILFOX"
-    ],
-    "Kataru Mountains": [
+    ]
+  },
+  "Kataru Mountains": {
+    en: "Kataru Mountains",
+    kr: "",
+    mobs: [
       "Magma",
       "Burning Stone",
       "Fire Bird",
@@ -148,8 +214,12 @@ export const mapInfo = {
       "Magma Thief",
       "Magma Senior Thief",
       "CHIEF MAGIEF"
-    ],
-    "Desert Valley": [
+    ]
+  },
+  "Desert Valley": {
+    en: "Desert Valley",
+    kr: "",
+    mobs: [
       "Desert Gosumi",
       "Sandgrave",
       "Desert Beholder",
@@ -159,8 +229,12 @@ export const mapInfo = {
       "Sususuk",
       "Suuk",
       "SHAAACK"
-    ],
-    "Hot Sand Plains": [
+    ]
+  },
+  "Hot Sand Plains": {
+    en: "Hot Sand Plains",
+    kr: "",
+    mobs: [
       "Shadow",
       "Mind Scream",
       "Wanderer",
@@ -168,16 +242,17 @@ export const mapInfo = {
       "Sandeater",
       "Bigmouse",
       "BIGMAMA"
-    ],
-    "Ancient Palace": [
-      "Sky Bat",
-      "Silver Bat",
-      "IPot",
-      "Puppet",
-      "Tornado",
-      "Dark Tornado"
-    ],
-    "Western Sky Castle": [
+    ]
+  },
+  "Ancient Palace": {
+    en: "Ancient Palace",
+    kr: "",
+    mobs: ["Sky Bat", "Silver Bat", "IPot", "Puppet", "Tornado", "Dark Tornado"]
+  },
+  "Western Sky Castle": {
+    en: "Western Sky Castle",
+    kr: "",
+    mobs: [
       "Goblin",
       "Couatl",
       "Kobold",
@@ -185,8 +260,12 @@ export const mapInfo = {
       "Zealot",
       "Gnome",
       "Tyrant"
-    ],
-    "Eastern Sky Castle": [
+    ]
+  },
+  "Eastern Sky Castle": {
+    en: "Eastern Sky Castle",
+    kr: "",
+    mobs: [
       "Orb",
       "Storm",
       "Bulette",
@@ -195,16 +274,24 @@ export const mapInfo = {
       "Swirl Flame",
       "Twister",
       "Elemental Queen"
-    ],
-    "Stone Fortress": [
+    ]
+  },
+  "Stone Fortress": {
+    en: "Stone Fortress",
+    kr: "",
+    mobs: [
       "Solid Rock",
       "Gargoyle",
       "Golem",
       "Black Gargoyle",
       "Ominous Bird",
       "Stonestatue"
-    ],
-    "Unknown Maze": [
+    ]
+  },
+  "Unknown Maze": {
+    en: "Unknown Maze",
+    kr: "",
+    mobs: [
       "Aroid",
       "Iron Golem",
       "Robot",
@@ -212,16 +299,24 @@ export const mapInfo = {
       "Landmine",
       "Titanium Golem",
       "Steampunk"
-    ],
-    "Fallen Temple": [
+    ]
+  },
+  "Fallen Temple": {
+    en: "Fallen Temple",
+    kr: "",
+    mobs: [
       "Darkness",
       "Protector",
       "Guardian",
       "Inspector",
       "Fear of the Darkness",
       "Gatekeeper"
-    ],
-    "Temple of Wingfril": [
+    ]
+  },
+  "Temple of Wingfril": {
+    en: "Temple of Wingfril",
+    kr: "",
+    mobs: [
       "Crystal Stone",
       "Yeti",
       "Wing Elemental",
@@ -234,8 +329,12 @@ export const mapInfo = {
       "Enraged Wings",
       "BLACKSKY",
       "WADANGKA THE ELDER"
-    ],
-    "Polluted Forest": [
+    ]
+  },
+  "Polluted Forest": {
+    en: "Polluted Forest",
+    kr: "",
+    mobs: [
       "Enraged Tree",
       "Smack",
       "Man-eating Mushroom",
@@ -244,8 +343,12 @@ export const mapInfo = {
       "Poison Root Flower",
       "Contaminated Queen Bee",
       "Corrupted Forest Keeper"
-    ],
-    "Marsh of Death": [
+    ]
+  },
+  "Marsh of Death": {
+    en: "Marsh of Death",
+    kr: "",
+    mobs: [
       "Young Froggy Swarm",
       "Poisonous Man-eating Mushroom",
       "Zombie",
@@ -254,8 +357,12 @@ export const mapInfo = {
       "Rotten Pudding",
       "Swamp Flower Monster",
       "Ukpana"
-    ],
-    "Maze Forest": [
+    ]
+  },
+  "Maze Forest": {
+    en: "Maze Forest",
+    kr: "",
+    mobs: [
       "Ancient Elf Crystal",
       "Plague Zombie",
       "Egg Monster",
@@ -265,17 +372,22 @@ export const mapInfo = {
       "Death Stalker",
       "Dark Golem",
       "Darlene the Witch"
-    ],
-    "Syphnel Road": ["Snowball", "Uru"],
-    "Islot's Lab": [
-      "Snowball",
-      "Uru",
-      "Sharkun",
-      "Snoowy",
-      "Urpus",
-      "Mutated Sharkun"
-    ],
-    "Islot's Temple": [
+    ]
+  },
+  "Syphnel Road": {
+    en: "Syphnel Road",
+    kr: "",
+    mobs: ["Snowball", "Uru"]
+  },
+  "Islot's Lab": {
+    en: "Islot's Lab",
+    kr: "",
+    mobs: ["Snowball", "Uru", "Sharkun", "Snoowy", "Urpus", "Mutated Sharkun"]
+  },
+  "Islot's Temple": {
+    en: "Islot's Temple",
+    kr: "",
+    mobs: [
       "Urun",
       "Strong Sharkun",
       "Shurun",
@@ -283,8 +395,12 @@ export const mapInfo = {
       "Urtus",
       "Mutated Shurun",
       "Sharkutus"
-    ],
-    "Ghost Ship": [
+    ]
+  },
+  "Ghost Ship": {
+    en: "Ghost Ship",
+    kr: "",
+    mobs: [
       "Blood Bat",
       "Tough Mimic",
       "Violent Crew",
@@ -295,8 +411,12 @@ export const mapInfo = {
       "Ghost Witch",
       "CAPTAIN TWIN (2)",
       "CAPTAIN TWIN (1)"
-    ],
-    "Forgotten Cave": [
+    ]
+  },
+  "Forgotten Cave": {
+    en: "Forgotten Cave",
+    kr: "",
+    mobs: [
       "Poison Lizard",
       "Big Eyed Soul",
       "Dark Imp",
@@ -305,8 +425,12 @@ export const mapInfo = {
       "Evil Spirit",
       "Walking Dead",
       "MUTANTHYDRA"
-    ],
-    "Silent Altar": [
+    ]
+  },
+  "Silent Altar": {
+    en: "Silent Altar",
+    kr: "",
+    mobs: [
       "Altar Cleaner",
       "Silent Ghost",
       "Rock Golem",
@@ -314,8 +438,12 @@ export const mapInfo = {
       "Morphling",
       "Mystery",
       "MALTARGUARDIAN"
-    ],
-    "Impassable Cave": [
+    ]
+  },
+  "Impassable Cave": {
+    en: "Impassable Cave",
+    kr: "",
+    mobs: [
       "Cave Spider",
       "Hairy",
       "Cave Keeper",
@@ -323,8 +451,12 @@ export const mapInfo = {
       "DARKJUNO",
       "GRAYSKY",
       "WHITEWADANGKA"
-    ],
-    "Desert Dungeon": [
+    ]
+  },
+  "Desert Dungeon": {
+    en: "Desert Dungeon",
+    kr: "",
+    mobs: [
       "Silhouette",
       "Underground Eater",
       "Bandageman",
@@ -332,8 +464,5 @@ export const mapInfo = {
       "Gluttony",
       "THEMAMA"
     ]
-  },
-  kr: {
-    "우디 위디 숲/우디 워디 숲": []
   }
 };

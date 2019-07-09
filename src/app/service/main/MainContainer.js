@@ -16,9 +16,11 @@ export default class MainContainer extends Component {
     super(props);
     this.state = {
       lang: "en",
-      keyword: ""
+      keyword: "",
+      sort: "normal"
     };
     this.handleLang = this.handleLang.bind(this);
+    this.handleSort = this.handleSort.bind(this);
     this.handleKeyword = this.handleKeyword.bind(this);
     this.makeList = this.makeList.bind(this);
   }
@@ -35,6 +37,18 @@ export default class MainContainer extends Component {
     }
   }
 
+  handleSort() {
+    if (this.state.sort === "normal") {
+      this.setState({
+        sort: "level"
+      });
+    } else {
+      this.setState({
+        sort: "normal"
+      });
+    }
+  }
+
   handleKeyword(value) {
     this.setState({
       keyword: value
@@ -44,28 +58,41 @@ export default class MainContainer extends Component {
   makeList() {
     /* Map */
     let indexList = [];
-
-    Object.keys(mapInfo[this.state.lang]).forEach((mapName, i) => {
+    Object.keys(mapInfo).forEach((mapName, i) => {
       /* Monsters*/
-      let monsterList = mapInfo[this.state.lang][mapName].filter(
+      let monsterList = mapInfo[mapName]["mobs"].filter(
         monsterName =>
           monsterName
             .toUpperCase()
             .indexOf(this.state.keyword.toUpperCase()) !== -1
       );
       if (monsterList.length !== 0) {
-        indexList.push(
-          <div key={i}>
-            <Map name={mapName} />
-            {monsterList.map((monsterName, j) => (
-              <Monster
-                name={monsterName}
-                info={monsterInfo[this.state.lang][monsterName]}
-                key={j}
-              />
-            ))}
-          </div>
-        );
+        if (this.state.sort === "normal") {
+          indexList.push(
+            <div key={i}>
+              <Map name={mapName} />
+              {monsterList.map((monsterName, j) => (
+                <Monster
+                  info={monsterInfo[monsterName]}
+                  lang={this.state.lang}
+                  key={j}
+                />
+              ))}
+            </div>
+          );
+        } else if (this.state.sort === "level") {
+          indexList.push(
+            <div key={i}>
+              {monsterList.sort().map((monsterName, j) => (
+                <Monster
+                  info={monsterInfo[monsterName]}
+                  lang={this.state.lang}
+                  key={j}
+                />
+              ))}
+            </div>
+          );
+        }
       } else {
         if (
           mapName.toUpperCase().indexOf(this.state.keyword.toUpperCase()) !== -1
@@ -73,10 +100,10 @@ export default class MainContainer extends Component {
           indexList.push(
             <div key={i}>
               <Map name={mapName} />
-              {mapInfo[this.state.lang][mapName].map((monsterName, j) => (
+              {mapInfo[mapName]["mobs"].map((monsterName, j) => (
                 <Monster
-                  name={monsterName}
-                  info={monsterInfo[this.state.lang][monsterName]}
+                  info={monsterInfo[monsterName]}
+                  lang={this.state.lang}
                   key={j}
                 />
               ))}
@@ -94,6 +121,7 @@ export default class MainContainer extends Component {
       <div className="Main">
         <SearchBox handleKeyword={this.handleKeyword} />
         <button onClick={this.handleLang}>언어 변경</button>
+        <button onClick={this.handleSort}>정렬 방식 변경</button>
         {this.makeList()}
         <div>많은 내용은 아이모 Fandom에서 가져왔습니다. </div>
       </div>

@@ -28,3 +28,10 @@
   background: $Monster-background;
   @include box-shadow;
 }
+
+div[class^="Monster-"] {
+  vertical-align: middle;
+  display: inline-block;
+  text-align: center;
+  width: 11%;
+}
