@@ -70,6 +70,19 @@ export default class MainContainer extends Component {
           .indexOf(this.state.keyword.toUpperCase().replace(" ", "")) === -1;
   }
 
+  mapvalidCheck(mapName) {
+    return !this.state.keyword
+      ? false
+      : this.state.keywordlang
+      ? mapInfo[mapName]["kr"]
+          .replace(" ", "")
+          .indexOf(this.state.keyword.replace(" ", "")) === -1
+      : mapInfo[mapName]["en"]
+          .toUpperCase()
+          .replace(" ", "")
+          .indexOf(this.state.keyword.toUpperCase().replace(" ", "")) === -1;
+  }
+
   mapCheck(mapName) {
     return (
       mapInfo[mapName]["mobs"].filter(
@@ -83,22 +96,38 @@ export default class MainContainer extends Component {
     let indexList = [];
     Object.keys(mapInfo).forEach((mapName, i) => {
       /* Monsters*/
-      indexList.push(
-        <div key={i}>
-          <Map
-            name={mapInfo[mapName][this.state.lang]}
-            disable={this.mapCheck(mapName)}
-          />
-          {mapInfo[mapName]["mobs"].map((monsterName, j) => (
-            <Monster
-              info={monsterInfo[monsterName]}
-              lang={this.state.lang}
-              key={j}
-              disable={this.validCheck(monsterName)}
+      if (!this.mapvalidCheck(mapName)) {
+        indexList.push(
+          <div key={i}>
+            <Map name={mapInfo[mapName][this.state.lang]} disable={false} />
+            {mapInfo[mapName]["mobs"].map((monsterName, j) => (
+              <Monster
+                info={monsterInfo[monsterName]}
+                lang={this.state.lang}
+                key={j}
+                disable={false}
+              />
+            ))}
+          </div>
+        );
+      } else {
+        indexList.push(
+          <div key={i}>
+            <Map
+              name={mapInfo[mapName][this.state.lang]}
+              disable={this.mapCheck(mapName)}
             />
-          ))}
-        </div>
-      );
+            {mapInfo[mapName]["mobs"].map((monsterName, j) => (
+              <Monster
+                info={monsterInfo[monsterName]}
+                lang={this.state.lang}
+                key={j}
+                disable={this.validCheck(monsterName)}
+              />
+            ))}
+          </div>
+        );
+      }
     });
 
     return indexList;
