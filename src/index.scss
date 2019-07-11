@@ -154,6 +154,10 @@ code {
     ##Screen = B/w 768px to 1024px */
 
 @media (min-width: 768px) and (max-width: 1024px) {
+  body {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
 }
 
 /* ##Device = Tablets, Ipads (landscape)
