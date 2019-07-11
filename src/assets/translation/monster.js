@@ -11,7 +11,7 @@ export const monsterInfo = {
   Kooii: {
     en: "Kooii",
     kr: "쿠이",
-    level: 1,
+    level: 2,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -22,7 +22,7 @@ export const monsterInfo = {
   "Bramble Donguri": {
     en: "Bramble Donguri",
     kr: "나무동그리",
-    level: 1,
+    level: 3,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -33,7 +33,7 @@ export const monsterInfo = {
   "Leaf Boar": {
     en: "Leaf Boar",
     kr: "나뭇잎맷돼지",
-    level: 1,
+    level: 4,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -44,7 +44,7 @@ export const monsterInfo = {
   "Angry Leaf Boar": {
     en: "Angry Leaf Boar",
     kr: "성난잎맷돼지",
-    level: 1,
+    level: 4,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -55,7 +55,7 @@ export const monsterInfo = {
   "Bulldozer Jr.": {
     en: "Bulldozer Jr.",
     kr: "불도저주니어",
-    level: 1,
+    level: 5,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -66,7 +66,7 @@ export const monsterInfo = {
   BULLDOZER: {
     en: "BULLDOZER",
     kr: "불도저",
-    level: 1,
+    level: 7,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -77,7 +77,7 @@ export const monsterInfo = {
   "BULLDOZER'S BROTHER": {
     en: "BULLDOZER'S BROTHER",
     kr: "불도저형님",
-    level: 1,
+    level: 8,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -88,7 +88,7 @@ export const monsterInfo = {
   "Swamp Mushroom": {
     en: "Swamp Mushroom",
     kr: "늪지버섯돌이",
-    level: 1,
+    level: 5,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -99,7 +99,7 @@ export const monsterInfo = {
   "Flower Elemental": {
     en: "Flower Elemental",
     kr: "꽃정령",
-    level: 1,
+    level: 6,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -110,7 +110,7 @@ export const monsterInfo = {
   "Swamp Boar": {
     en: "Swamp Boar",
     kr: "늪지멧돼지",
-    level: 1,
+    level: 7,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -121,7 +121,7 @@ export const monsterInfo = {
   "Swamp Spider": {
     en: "Swamp Spider",
     kr: "검은거미",
-    level: 1,
+    level: 8,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -132,7 +132,7 @@ export const monsterInfo = {
   "Poisonous Spider": {
     en: "Poisonous Spider",
     kr: "맹독거미",
-    level: 1,
+    level: 9,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -143,7 +143,7 @@ export const monsterInfo = {
   "White Spider": {
     en: "White Spider",
     kr: "검투사거미",
-    level: 1,
+    level: 10,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -154,7 +154,7 @@ export const monsterInfo = {
   "FUNGUS KING": {
     en: "FUNGUS KING",
     kr: "대왕버섯돌이",
-    level: 1,
+    level: 12,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -176,7 +176,7 @@ export const monsterInfo = {
   "Poisonous Mushroom": {
     en: "Poisonous Mushroom",
     kr: "독버섯돌이",
-    level: 1,
+    level: 8,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -187,7 +187,7 @@ export const monsterInfo = {
   "Mushroom Flower": {
     en: "Mushroom Flower",
     kr: "슾지꽃정령",
-    level: 1,
+    level: 9,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -198,7 +198,7 @@ export const monsterInfo = {
   "Cave Bat": {
     en: "Cave Bat",
     kr: "동굴박쥐",
-    level: 1,
+    level: 9,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -209,7 +209,7 @@ export const monsterInfo = {
   "White Bat": {
     en: "White Bat",
     kr: "백금박쥐",
-    level: 1,
+    level: 10,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -220,7 +220,7 @@ export const monsterInfo = {
   "POISON FUNGUS KING": {
     en: "POISON FUNGUS KING",
     kr: "독왕버섯돌이",
-    level: 1,
+    level: 12,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -242,7 +242,7 @@ export const monsterInfo = {
   "Red Crab": {
     en: "Red Crab",
     kr: "레드크랩",
-    level: 1,
+    level: 10,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -253,7 +253,7 @@ export const monsterInfo = {
   Sandman: {
     en: "Sandman",
     kr: "샌드맨",
-    level: 1,
+    level: 11,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -264,7 +264,7 @@ export const monsterInfo = {
   Woopa: {
     en: "Woopa",
     kr: "우파우파",
-    level: 1,
+    level: 12,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -275,7 +275,7 @@ export const monsterInfo = {
   Roopa: {
     en: "Roopa",
     kr: "우파루파",
-    level: 1,
+    level: 13,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -286,7 +286,7 @@ export const monsterInfo = {
   "Mutant Woopa": {
     en: "Mutant Woopa",
     kr: "변종우파",
-    level: 1,
+    level: 13,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -297,7 +297,7 @@ export const monsterInfo = {
   "CHIEF WOOPAROOPA": {
     en: "CHIEF WOOPAROOPA",
     kr: "우파루파족장",
-    level: 1,
+    level: 14,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -308,7 +308,7 @@ export const monsterInfo = {
   "TURTLE Z": {
     en: "TURTLE Z",
     kr: "안졸려도자라",
-    level: 1,
+    level: 18,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -319,7 +319,7 @@ export const monsterInfo = {
   "TURTLE ZZZ": {
     en: "TURTLE ZZZ",
     kr: "졸리면자라",
-    level: 1,
+    level: 33,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -330,7 +330,7 @@ export const monsterInfo = {
   "Testing Woopa": {
     en: "Testing Woopa",
     kr: "실험용우파",
-    level: 1,
+    level: 15,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -341,7 +341,7 @@ export const monsterInfo = {
   "Marsh Donguri": {
     en: "Marsh Donguri",
     kr: "슾지동그리",
-    level: 1,
+    level: 15,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -352,7 +352,7 @@ export const monsterInfo = {
   RECLUSE: {
     en: "RECLUSE",
     kr: "은둔자",
-    level: 1,
+    level: 15,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -363,7 +363,7 @@ export const monsterInfo = {
   "Underground Spider": {
     en: "Underground Spider",
     kr: "지하거미",
-    level: 1,
+    level: 16,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -374,7 +374,7 @@ export const monsterInfo = {
   Skeleton: {
     en: "Skeleton",
     kr: "해골",
-    level: 1,
+    level: 17,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -385,7 +385,7 @@ export const monsterInfo = {
   MADGAR: {
     en: "MADGAR",
     kr: "매드가",
-    level: 1,
+    level: 17,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -396,7 +396,7 @@ export const monsterInfo = {
   "Gray Skeleton": {
     en: "Gray Skeleton",
     kr: "회색해골",
-    level: 1,
+    level: 18,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -407,7 +407,7 @@ export const monsterInfo = {
   "SMALL SKELETON": {
     en: "SMALL SKELETON",
     kr: "왜소한해골",
-    level: 1,
+    level: 18,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -418,7 +418,7 @@ export const monsterInfo = {
   BLACKSKULL: {
     en: "BLACKSKULL",
     kr: "블랙스컬",
-    level: 1,
+    level: 23,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -428,8 +428,8 @@ export const monsterInfo = {
   },
   Beholder: {
     en: "Beholder",
-    kr: "",
-    level: 1,
+    kr: "주시자",
+    level: 18,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -440,7 +440,7 @@ export const monsterInfo = {
   "Drunken Kooii": {
     en: "Drunken Kooii",
     kr: "눈풀린쿠이",
-    level: 1,
+    level: 19,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -451,7 +451,7 @@ export const monsterInfo = {
   Ghost: {
     en: "Ghost",
     kr: "고스트",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -462,7 +462,7 @@ export const monsterInfo = {
   "Sleepy Kooii": {
     en: "Sleepy Kooii",
     kr: "졸린쿠이",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -473,7 +473,7 @@ export const monsterInfo = {
   WHITESKULL: {
     en: "WHITESKULL",
     kr: "화이트스컬",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -484,7 +484,7 @@ export const monsterInfo = {
   "AWAKEN KOOII": {
     en: "AWAKEN KOOII",
     kr: "잠깬쿠이",
-    level: 1,
+    level: 26,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -496,7 +496,7 @@ export const monsterInfo = {
   "Snaketail Lizard": {
     en: "Snaketail Lizard",
     kr: "뱀꼬리도마뱀",
-    level: 1,
+    level: 21,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -507,7 +507,7 @@ export const monsterInfo = {
   SNAKEZARD: {
     en: "SNAKEZARD",
     kr: "스네이크자드",
-    level: 1,
+    level: 21,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -518,7 +518,7 @@ export const monsterInfo = {
   "Dark Beholder": {
     en: "Dark Beholder",
     kr: "어둠의주시자",
-    level: 1,
+    level: 22,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -529,7 +529,7 @@ export const monsterInfo = {
   Spector: {
     en: "Spector",
     kr: "스펙터",
-    level: 1,
+    level: 22,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -540,7 +540,7 @@ export const monsterInfo = {
   Imp: {
     en: "Imp",
     kr: "임프",
-    level: 1,
+    level: 23,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -551,7 +551,7 @@ export const monsterInfo = {
   EEHEEHEE: {
     en: "EEHEEHEE",
     kr: "이히히",
-    level: 1,
+    level: 29,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -562,7 +562,7 @@ export const monsterInfo = {
   OOHEEHEEK: {
     en: "OOHEEHEEK",
     kr: "우히힉",
-    level: 1,
+    level: 29,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -573,7 +573,7 @@ export const monsterInfo = {
   OOHEHE: {
     en: "OOHEHE",
     kr: "우헤헤",
-    level: 1,
+    level: 29,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -584,7 +584,7 @@ export const monsterInfo = {
   "Bloody Flower": {
     en: "Bloody Flower",
     kr: "흡혈꽃",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -595,7 +595,7 @@ export const monsterInfo = {
   "Bloody Mind": {
     en: "Bloody Mind",
     kr: "핏빛사념체",
-    level: 1,
+    level: 2,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -606,7 +606,7 @@ export const monsterInfo = {
   "Dan Dan": {
     en: "Dan Dan",
     kr: "단단",
-    level: 1,
+    level: 25,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -617,7 +617,7 @@ export const monsterInfo = {
   "Ding Ding": {
     en: "Ding Ding",
     kr: "딩딩",
-    level: 1,
+    level: 25,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -628,7 +628,7 @@ export const monsterInfo = {
   "Dong Dong": {
     en: "Dong Dong",
     kr: "동동",
-    level: 1,
+    level: 25,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -639,7 +639,7 @@ export const monsterInfo = {
   "Dung Dung": {
     en: "Dung Dung",
     kr: "덩덩",
-    level: 1,
+    level: 25,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -650,7 +650,7 @@ export const monsterInfo = {
   "GUARDIAN IMP": {
     en: "GUARDIAN IMP",
     kr: "가디언임프",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -661,7 +661,7 @@ export const monsterInfo = {
   Mummy: {
     en: "Mummy",
     kr: "미이라",
-    level: 1,
+    level: 26,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -672,7 +672,7 @@ export const monsterInfo = {
   "Elite Imp": {
     en: "Elite Imp",
     kr: "엘리프임프",
-    level: 1,
+    level: 27,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -683,7 +683,7 @@ export const monsterInfo = {
   "Mummy Fighter": {
     en: "Mummy Fighter",
     kr: "전투미이라",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -694,7 +694,7 @@ export const monsterInfo = {
   DEVILANG: {
     en: "DEVILANG",
     kr: "데블랑",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -705,7 +705,7 @@ export const monsterInfo = {
   Broom: {
     en: "Broom",
     kr: "빗자루",
-    level: 1,
+    level: 18,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -716,7 +716,7 @@ export const monsterInfo = {
   Sweeper: {
     en: "Sweeper",
     kr: "청소부깔끄미",
-    level: 1,
+    level: 18,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -728,7 +728,7 @@ export const monsterInfo = {
   "Treasure Chest": {
     en: "Treasure Chest",
     kr: "미믹",
-    level: 1,
+    level: 19,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -739,7 +739,7 @@ export const monsterInfo = {
   "Pirate Skeleton": {
     en: "Pirate Skeleton",
     kr: "해적해골",
-    level: 1,
+    level: 19,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -750,7 +750,7 @@ export const monsterInfo = {
   "Pirate Ghost": {
     en: "Pirate Ghost",
     kr: "해적유령",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -761,7 +761,7 @@ export const monsterInfo = {
   "BOATSWAIN BRANKA": {
     en: "BOATSWAIN BRANKA",
     kr: "갑판장블랑카",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -772,7 +772,7 @@ export const monsterInfo = {
   "Continent Bulldozer": {
     en: "Continent Bulldozer",
     kr: "대륙불도저",
-    level: 1,
+    level: 12,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -783,7 +783,7 @@ export const monsterInfo = {
   Blaster: {
     en: "Blaster",
     kr: "블래스터",
-    level: 1,
+    level: 14,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -794,7 +794,7 @@ export const monsterInfo = {
   Crow: {
     en: "Crow",
     kr: "까막이",
-    level: 1,
+    level: 14,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -805,7 +805,7 @@ export const monsterInfo = {
   Raven: {
     en: "Raven",
     kr: "레이븐",
-    level: 1,
+    level: 16,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -816,7 +816,7 @@ export const monsterInfo = {
   "Redeye Gosumi": {
     en: "Redeye Gosumi",
     kr: "빨간눈고슴이",
-    level: 1,
+    level: 16,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -827,7 +827,7 @@ export const monsterInfo = {
   "Bloody Gosumi": {
     en: "Bloody Gosumi",
     kr: "혈고",
-    level: 1,
+    level: 18,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -838,7 +838,7 @@ export const monsterInfo = {
   "WHITE CROW": {
     en: "WHITE CROW",
     kr: "백마귀",
-    level: 1,
+    level: 19,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -849,7 +849,7 @@ export const monsterInfo = {
   "Mutant Gosumi": {
     en: "Mutant Gosumi",
     kr: "변종고슴이",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -860,7 +860,7 @@ export const monsterInfo = {
   "Berserk Gosumi": {
     en: "Berserk Gosumi",
     kr: "폭주고스미",
-    level: 1,
+    level: 22,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -871,7 +871,7 @@ export const monsterInfo = {
   "Large Spider": {
     en: "Large Spider",
     kr: "거대거미",
-    level: 1,
+    level: 22,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -882,7 +882,7 @@ export const monsterInfo = {
   Spidey: {
     en: "Spidey",
     kr: "스파이디",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -893,7 +893,7 @@ export const monsterInfo = {
   "Big Boar": {
     en: "Big Boar",
     kr: "덩치큰맷돼지",
-    level: 1,
+    level: 23,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -904,7 +904,7 @@ export const monsterInfo = {
   Wildboar: {
     en: "Wildboar",
     kr: "와일드보어",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -915,7 +915,7 @@ export const monsterInfo = {
   GHOSTSNAKE: {
     en: "GHOSTSNAKE",
     kr: "귀모사",
-    level: 1,
+    level: 27,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -926,7 +926,7 @@ export const monsterInfo = {
   "Cactus Bee": {
     en: "Cactus Bee",
     kr: "선인장벌",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -937,7 +937,7 @@ export const monsterInfo = {
   "Sand Donguri": {
     en: "Sand Donguri",
     kr: "모래동그리",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -948,7 +948,7 @@ export const monsterInfo = {
   Bizizi: {
     en: "Bizizi",
     kr: "비지지",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -959,7 +959,7 @@ export const monsterInfo = {
   Doley: {
     en: "Doley",
     kr: "돌리",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -970,7 +970,7 @@ export const monsterInfo = {
   Buzss: {
     en: "Buzss",
     kr: "부즈즈",
-    level: 1,
+    level: 134,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -981,7 +981,7 @@ export const monsterInfo = {
   "Desert Ambush": {
     en: "Desert Ambush",
     kr: "사막의용병",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -992,7 +992,7 @@ export const monsterInfo = {
   Stealth: {
     en: "Stealth",
     kr: "스텔스",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1003,7 +1003,7 @@ export const monsterInfo = {
   "Desert Assassin": {
     en: "Desert Assassin",
     kr: "사막의암살자",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1014,7 +1014,7 @@ export const monsterInfo = {
   BSSSZSSS: {
     en: "BSSSZSSS",
     kr: "브스스즈스",
-    level: 1,
+    level: 40,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1025,7 +1025,7 @@ export const monsterInfo = {
   Fox: {
     en: "Fox",
     kr: "여우",
-    level: 1,
+    level: 12,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1036,7 +1036,7 @@ export const monsterInfo = {
   "Mature Fox": {
     en: "Mature Fox",
     kr: "성숙한여우",
-    level: 1,
+    level: 14,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1047,7 +1047,7 @@ export const monsterInfo = {
   "Red Fox": {
     en: "Red Fox",
     kr: "불여우",
-    level: 1,
+    level: 15,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1058,7 +1058,7 @@ export const monsterInfo = {
   "7tailfox": {
     en: "7tailfox",
     kr: "칠미호",
-    level: 1,
+    level: 16,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1068,8 +1068,8 @@ export const monsterInfo = {
   },
   "Sunset Flower": {
     en: "Sunset Flower",
-    kr: "노을에피는꽃",
-    level: 1,
+    kr: "노을에지는꽃",
+    level: 16,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1079,8 +1079,8 @@ export const monsterInfo = {
   },
   "Sunrise Flower": {
     en: "Sunrise Flower",
-    kr: "노을에지는꽃",
-    level: 1,
+    kr: "노을에피는꽃",
+    level: 18,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1091,7 +1091,7 @@ export const monsterInfo = {
   "777TAILFOX": {
     en: "777TAILFOX",
     kr: "칠칠칠미호",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1102,7 +1102,7 @@ export const monsterInfo = {
   Magma: {
     en: "Magma",
     kr: "마그마",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1113,7 +1113,7 @@ export const monsterInfo = {
   "Burning Stone": {
     en: "Burning Stone",
     kr: "불타는돌",
-    level: 1,
+    level: 22,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1124,7 +1124,7 @@ export const monsterInfo = {
   "Fire Bird": {
     en: "Fire Bird",
     kr: "화조",
-    level: 1,
+    level: 22,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1135,7 +1135,7 @@ export const monsterInfo = {
   Bbinikjoe: {
     en: "Bbinikjoe",
     kr: "삐닉죠",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1146,7 +1146,7 @@ export const monsterInfo = {
   "Magma Thief": {
     en: "Magma Thief",
     kr: "용암도적",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1157,7 +1157,7 @@ export const monsterInfo = {
   "Magma Senior Thief": {
     en: "Magma Senior Thief",
     kr: "용암도적바장",
-    level: 1,
+    level: 26,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1168,7 +1168,7 @@ export const monsterInfo = {
   "CHIEF MAGIEF": {
     en: "CHIEF MAGIEF",
     kr: "용암도적두목",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1179,7 +1179,7 @@ export const monsterInfo = {
   "Desert Gosumi": {
     en: "Desert Gosumi",
     kr: "고슴이",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1190,7 +1190,7 @@ export const monsterInfo = {
   Sandgrave: {
     en: "Sandgrave",
     kr: "모래무덤",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1201,7 +1201,7 @@ export const monsterInfo = {
   "Desert Beholder": {
     en: "Desert Beholder",
     kr: "사막의주시자",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1212,7 +1212,7 @@ export const monsterInfo = {
   "Elder Beholder": {
     en: "Elder Beholder",
     kr: "엘더비홀더",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1223,7 +1223,7 @@ export const monsterInfo = {
   "Wild Sandman": {
     en: "Wild Sandman",
     kr: "거친샌드맨",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1234,7 +1234,7 @@ export const monsterInfo = {
   "3eyelizard": {
     en: "3eyelizard",
     kr: "삼안룡",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1245,7 +1245,7 @@ export const monsterInfo = {
   Sususuk: {
     en: "Sususuk",
     kr: "스스슥",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1256,7 +1256,7 @@ export const monsterInfo = {
   Suuk: {
     en: "Suuk",
     kr: "스으윽",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1267,7 +1267,7 @@ export const monsterInfo = {
   SHAAACK: {
     en: "SHAAACK",
     kr: "샤아악",
-    level: 1,
+    level: 40,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1278,7 +1278,7 @@ export const monsterInfo = {
   Shadow: {
     en: "Shadow",
     kr: "그림자",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1289,7 +1289,7 @@ export const monsterInfo = {
   "Mind Scream": {
     en: "Mind Scream",
     kr: "마음의소리",
-    level: 1,
+    level: 40,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1299,8 +1299,8 @@ export const monsterInfo = {
   },
   Wanderer: {
     en: "Wanderer",
-    kr: "방랑잔",
-    level: 1,
+    kr: "방랑자",
+    level: 40,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1311,7 +1311,7 @@ export const monsterInfo = {
   "Lesser Madman": {
     en: "Lesser Madman",
     kr: "약간미치광이",
-    level: 1,
+    level: 42,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1322,7 +1322,7 @@ export const monsterInfo = {
   Sandeater: {
     en: "Sandeater",
     kr: "모래먹보",
-    level: 1,
+    level: 42,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1333,7 +1333,7 @@ export const monsterInfo = {
   Bigmouse: {
     en: "Bigmouse",
     kr: "빅마우스",
-    level: 1,
+    level: 44,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1344,7 +1344,7 @@ export const monsterInfo = {
   BIGMAMA: {
     en: "BIGMAMA",
     kr: "빅마마",
-    level: 1,
+    level: 50,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1355,7 +1355,7 @@ export const monsterInfo = {
   "Sky Bat": {
     en: "Sky Bat",
     kr: "하늘박쥐",
-    level: 1,
+    level: 26,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1366,7 +1366,7 @@ export const monsterInfo = {
   "Silver Bat": {
     en: "Silver Bat",
     kr: "은박쥐",
-    level: 1,
+    level: 29,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1377,7 +1377,7 @@ export const monsterInfo = {
   IPot: {
     en: "IPot",
     kr: "아이폿",
-    level: 1,
+    level: 27,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1388,7 +1388,7 @@ export const monsterInfo = {
   Puppet: {
     en: "Puppet",
     kr: "꼭두각시",
-    level: 1,
+    level: 35,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1399,7 +1399,7 @@ export const monsterInfo = {
   Tornado: {
     en: "Tornado",
     kr: "토네이도",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1410,7 +1410,7 @@ export const monsterInfo = {
   "Dark Tornado": {
     en: "Dark Tornado",
     kr: "검은폭풍",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1421,7 +1421,7 @@ export const monsterInfo = {
   Goblin: {
     en: "Goblin",
     kr: "고블린",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1432,7 +1432,7 @@ export const monsterInfo = {
   Couatl: {
     en: "Couatl",
     kr: "코아틀",
-    level: 1,
+    level: 29,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1443,7 +1443,7 @@ export const monsterInfo = {
   Kobold: {
     en: "Kobold",
     kr: "코볼트",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1454,7 +1454,7 @@ export const monsterInfo = {
   "Goblin Warrior": {
     en: "Goblin Warrior",
     kr: "고블린용사",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1465,7 +1465,7 @@ export const monsterInfo = {
   Zealot: {
     en: "Zealot",
     kr: "맹신자",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1476,7 +1476,7 @@ export const monsterInfo = {
   Gnome: {
     en: "Gnome",
     kr: "노움",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1487,7 +1487,7 @@ export const monsterInfo = {
   Tyrant: {
     en: "Tyrant",
     kr: "폭군",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1498,7 +1498,7 @@ export const monsterInfo = {
   Orb: {
     en: "Orb",
     kr: "오브",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1509,7 +1509,7 @@ export const monsterInfo = {
   Storm: {
     en: "Storm",
     kr: "스톰",
-    level: 1,
+    level: 29,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1520,7 +1520,7 @@ export const monsterInfo = {
   Bulette: {
     en: "Bulette",
     kr: "뷸렛",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1531,7 +1531,7 @@ export const monsterInfo = {
   Tank: {
     en: "Tank",
     kr: "탱크",
-    level: 1,
+    level: 33,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1542,7 +1542,7 @@ export const monsterInfo = {
   Maelstrom: {
     en: "Maelstrom",
     kr: "소용돌이",
-    level: 1,
+    level: 35,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1553,7 +1553,7 @@ export const monsterInfo = {
   "Swirl Flame": {
     en: "Swirl Flame",
     kr: "선회화염",
-    level: 1,
+    level: 35,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1564,7 +1564,7 @@ export const monsterInfo = {
   Twister: {
     en: "Twister",
     kr: "회오리",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1575,7 +1575,7 @@ export const monsterInfo = {
   "Elemental Queen": {
     en: "Elemental Queen",
     kr: "정령여왕",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1586,7 +1586,7 @@ export const monsterInfo = {
   "Solid Rock": {
     en: "Solid Rock",
     kr: "석인",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1597,7 +1597,7 @@ export const monsterInfo = {
   Gargoyle: {
     en: "Gargoyle",
     kr: "가고일",
-    level: 1,
+    level: 35,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1608,7 +1608,7 @@ export const monsterInfo = {
   Golem: {
     en: "Golem",
     kr: "골렘",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1619,7 +1619,7 @@ export const monsterInfo = {
   "Black Gargoyle": {
     en: "Black Gargoyle",
     kr: "검은가고일",
-    level: 1,
+    level: 37,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1630,7 +1630,7 @@ export const monsterInfo = {
   "Ominous Bird": {
     en: "Ominous Bird",
     kr: "괴조",
-    level: 1,
+    level: 35,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1641,7 +1641,7 @@ export const monsterInfo = {
   Stonestatue: {
     en: "Stonestatue",
     kr: "조각상",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1652,7 +1652,7 @@ export const monsterInfo = {
   Aroid: {
     en: "Aroid",
     kr: "에어로이드",
-    level: 1,
+    level: 35,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1663,7 +1663,7 @@ export const monsterInfo = {
   "Iron Golem": {
     en: "Iron Golem",
     kr: "강철골렘",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1674,7 +1674,7 @@ export const monsterInfo = {
   Robot: {
     en: "Robot",
     kr: "로봇",
-    level: 1,
+    level: 37,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1685,7 +1685,7 @@ export const monsterInfo = {
   Humanoid: {
     en: "Humanoid",
     kr: "휴머노이드",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1696,7 +1696,7 @@ export const monsterInfo = {
   Landmine: {
     en: "Landmine",
     kr: "지뢰",
-    level: 1,
+    level: 39,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1707,7 +1707,7 @@ export const monsterInfo = {
   "Titanium Golem": {
     en: "Titanium Golem",
     kr: "티타늄골렘",
-    level: 1,
+    level: 44,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1718,7 +1718,7 @@ export const monsterInfo = {
   Steampunk: {
     en: "Steampunk",
     kr: "스팀펑크",
-    level: 1,
+    level: 44,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1729,7 +1729,7 @@ export const monsterInfo = {
   Darkness: {
     en: "Darkness",
     kr: "어둠",
-    level: 1,
+    level: 42,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1740,7 +1740,7 @@ export const monsterInfo = {
   Protector: {
     en: "Protector",
     kr: "보호자",
-    level: 1,
+    level: 43,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1751,7 +1751,7 @@ export const monsterInfo = {
   Guardian: {
     en: "Guardian",
     kr: "수호자",
-    level: 1,
+    level: 44,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1762,7 +1762,7 @@ export const monsterInfo = {
   Inspector: {
     en: "Inspector",
     kr: "감독관",
-    level: 1,
+    level: 45,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1773,7 +1773,7 @@ export const monsterInfo = {
   "Fear of the Darkness": {
     en: "Fear of the Darkness",
     kr: "어둠의공포",
-    level: 1,
+    level: 45,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1784,7 +1784,7 @@ export const monsterInfo = {
   Gatekeeper: {
     en: "Gatekeeper",
     kr: "수문장",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1795,7 +1795,7 @@ export const monsterInfo = {
   "Crystal Stone": {
     en: "Crystal Stone",
     kr: "수정",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1806,7 +1806,7 @@ export const monsterInfo = {
   Yeti: {
     en: "Yeti",
     kr: "예티",
-    level: 1,
+    level: 20,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1817,7 +1817,7 @@ export const monsterInfo = {
   "Wing Elemental": {
     en: "Wing Elemental",
     kr: "윙정령",
-    level: 1,
+    level: 21,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1828,7 +1828,7 @@ export const monsterInfo = {
   "Crystal Spider": {
     en: "Crystal Spider",
     kr: "수정거미",
-    level: 1,
+    level: 23,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1839,7 +1839,7 @@ export const monsterInfo = {
   "Guardian Yeti": {
     en: "Guardian Yeti",
     kr: "가디언예티",
-    level: 1,
+    level: 25,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1850,7 +1850,7 @@ export const monsterInfo = {
   "Young Pengoon": {
     en: "Young Pengoon",
     kr: "미숙한펭군",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1861,7 +1861,7 @@ export const monsterInfo = {
   BLACKJUNO: {
     en: "BLACKJUNO",
     kr: "블랙주노",
-    level: 1,
+    level: 25,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1872,7 +1872,7 @@ export const monsterInfo = {
   "Crazy Pengoon": {
     en: "Crazy Pengoon",
     kr: "난폭한펭군",
-    level: 1,
+    level: 26,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1883,7 +1883,7 @@ export const monsterInfo = {
   "Yeti Highguard": {
     en: "Yeti Highguard",
     kr: "예티하이가드",
-    level: 1,
+    level: 27,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1894,7 +1894,7 @@ export const monsterInfo = {
   "Enraged Wings": {
     en: "Enraged Wings",
     kr: "격노한윙정령",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1905,7 +1905,7 @@ export const monsterInfo = {
   BLACKSKY: {
     en: "BLACKSKY",
     kr: "블랙스카이",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1916,7 +1916,7 @@ export const monsterInfo = {
   "WADANGKA THE ELDER": {
     en: "WADANGKA THE ELDER",
     kr: "와당카더엘더",
-    level: 1,
+    level: 35,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1927,7 +1927,7 @@ export const monsterInfo = {
   "Enraged Tree": {
     en: "Enraged Tree",
     kr: "분노한나무",
-    level: 1,
+    level: 22,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1938,7 +1938,7 @@ export const monsterInfo = {
   Smack: {
     en: "Smack",
     kr: "쩌억",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1949,7 +1949,7 @@ export const monsterInfo = {
   "Man-eating Mushroom": {
     en: "Man-eating Mushroom",
     kr: "식인버섯",
-    level: 1,
+    level: 26,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1960,7 +1960,7 @@ export const monsterInfo = {
   "Mutated Bee": {
     en: "Mutated Bee",
     kr: "변종일벌",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1971,7 +1971,7 @@ export const monsterInfo = {
   Smaaack: {
     en: "Smaaack",
     kr: "쩌어억",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1982,7 +1982,7 @@ export const monsterInfo = {
   "Poison Root Flower": {
     en: "Poison Root Flower",
     kr: "독부리꽃",
-    level: 1,
+    level: 29,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -1993,7 +1993,7 @@ export const monsterInfo = {
   "Contaminated Queen Bee": {
     en: "Contaminated Queen Bee",
     kr: "감염된여왕벌",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2004,7 +2004,7 @@ export const monsterInfo = {
   "Corrupted Forest Keeper": {
     en: "Corrupted Forest Keeper",
     kr: "타락한숲지킴이",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2015,7 +2015,7 @@ export const monsterInfo = {
   "Young Froggy Swarm": {
     en: "Young Froggy Swarm",
     kr: "어랜개구르떼",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2026,7 +2026,7 @@ export const monsterInfo = {
   "Poisonous Man-eating Mushroom": {
     en: "Poisonous Man-eating Mushroom",
     kr: "맹독식인버섯",
-    level: 1,
+    level: 37,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2037,7 +2037,7 @@ export const monsterInfo = {
   Zombie: {
     en: "Zombie",
     kr: "좀비",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2048,7 +2048,7 @@ export const monsterInfo = {
   "Mutated Lobster": {
     en: "Mutated Lobster",
     kr: "변종가재",
-    level: 1,
+    level: 40,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2059,7 +2059,7 @@ export const monsterInfo = {
   Froggy: {
     en: "Froggy",
     kr: "개구르르",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2070,7 +2070,7 @@ export const monsterInfo = {
   "Rotten Pudding": {
     en: "Rotten Pudding",
     kr: "썩은푸딩",
-    level: 1,
+    level: 40,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2081,7 +2081,7 @@ export const monsterInfo = {
   "Swamp Flower Monster": {
     en: "Swamp Flower Monster",
     kr: "늪지꽃괴수",
-    level: 1,
+    level: 40,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2092,7 +2092,7 @@ export const monsterInfo = {
   Ukpana: {
     en: "Ukpana",
     kr: "우크파나",
-    level: 1,
+    level: 50,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2114,7 +2114,7 @@ export const monsterInfo = {
   "Plague Zombie": {
     en: "Plague Zombie",
     kr: "역병좀비",
-    level: 1,
+    level: 42,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2125,7 +2125,7 @@ export const monsterInfo = {
   "Egg Monster": {
     en: "Egg Monster",
     kr: "알괴물",
-    level: 1,
+    level: 43,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2136,7 +2136,7 @@ export const monsterInfo = {
   Banshee: {
     en: "Banshee",
     kr: "밴쉬",
-    level: 1,
+    level: 44,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2147,7 +2147,7 @@ export const monsterInfo = {
   "Masked Magician": {
     en: "Masked Magician",
     kr: "가면마법사",
-    level: 1,
+    level: 45,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2158,7 +2158,7 @@ export const monsterInfo = {
   Hellhound: {
     en: "Hellhound",
     kr: "헬하운드",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2169,7 +2169,7 @@ export const monsterInfo = {
   "Death Stalker": {
     en: "Death Stalker",
     kr: "데스스토커",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2180,7 +2180,7 @@ export const monsterInfo = {
   "Dark Golem": {
     en: "Dark Golem",
     kr: "암흑골렘",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2191,7 +2191,7 @@ export const monsterInfo = {
   "Darlene the Witch": {
     en: "Darlene the Witch",
     kr: "마녀딜린",
-    level: 1,
+    level: 50,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2202,7 +2202,7 @@ export const monsterInfo = {
   Snowball: {
     en: "Snowball",
     kr: "눈덩이",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2213,7 +2213,7 @@ export const monsterInfo = {
   Uru: {
     en: "Uru",
     kr: "우르",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2224,7 +2224,7 @@ export const monsterInfo = {
   Sharkun: {
     en: "Sharkun",
     kr: "샤쿤",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2235,7 +2235,7 @@ export const monsterInfo = {
   Snoowy: {
     en: "Snoowy",
     kr: "스노위",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2246,7 +2246,7 @@ export const monsterInfo = {
   Urpus: {
     en: "Urpus",
     kr: "우르푸스",
-    level: 1,
+    level: 35,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2257,7 +2257,7 @@ export const monsterInfo = {
   "Mutated Sharkun": {
     en: "Mutated Sharkun",
     kr: "돌연변이 샤쿤",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2268,7 +2268,7 @@ export const monsterInfo = {
   Urun: {
     en: "Urun",
     kr: "우룬",
-    level: 1,
+    level: 41,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2279,7 +2279,7 @@ export const monsterInfo = {
   "Strong Sharkun": {
     en: "Strong Sharkun",
     kr: "힘센 샤쿤",
-    level: 1,
+    level: 43,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2290,7 +2290,7 @@ export const monsterInfo = {
   Shurun: {
     en: "Shurun",
     kr: "슈룬",
-    level: 1,
+    level: 45,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2301,7 +2301,7 @@ export const monsterInfo = {
   Sharkurus: {
     en: "Sharkurus",
     kr: "샤쿠루스",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2312,7 +2312,7 @@ export const monsterInfo = {
   Urtus: {
     en: "Urtus",
     kr: "우르투스",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2323,7 +2323,7 @@ export const monsterInfo = {
   "Mutated Shurun": {
     en: "Mutated Shurun",
     kr: "돌연변이 슈룬",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2334,7 +2334,7 @@ export const monsterInfo = {
   Sharkutus: {
     en: "Sharkutus",
     kr: "샤쿠투스",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2345,7 +2345,7 @@ export const monsterInfo = {
   "Blood Bat": {
     en: "Blood Bat",
     kr: "흡혈박쥐",
-    level: 1,
+    level: 21,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2356,7 +2356,7 @@ export const monsterInfo = {
   "Tough Mimic": {
     en: "Tough Mimic",
     kr: "단단한미믹",
-    level: 1,
+    level: 21,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2367,7 +2367,7 @@ export const monsterInfo = {
   "Violent Crew": {
     en: "Violent Crew",
     kr: "난폭한선원",
-    level: 1,
+    level: 22,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2378,7 +2378,7 @@ export const monsterInfo = {
   "White Ghost": {
     en: "White Ghost",
     kr: "하얀유령",
-    level: 1,
+    level: 23,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2389,7 +2389,7 @@ export const monsterInfo = {
   "Weary Crew": {
     en: "Weary Crew",
     kr: "피곤한선원",
-    level: 1,
+    level: 24,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2400,7 +2400,7 @@ export const monsterInfo = {
   "Bomb Wing": {
     en: "Bomb Wing",
     kr: "붐윙",
-    level: 1,
+    level: 25,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2411,7 +2411,7 @@ export const monsterInfo = {
   "Jack in the Box": {
     en: "Jack in the Box",
     kr: "깜짝상자",
-    level: 1,
+    level: 26,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2422,7 +2422,7 @@ export const monsterInfo = {
   "Ghost Witch": {
     en: "Ghost Witch",
     kr: "유령마법사",
-    level: 1,
+    level: 27,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2433,7 +2433,7 @@ export const monsterInfo = {
   "CAPTAIN TWIN (2)": {
     en: "CAPTAIN TWIN (2)",
     kr: "캡틴 트윈 2",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2444,7 +2444,7 @@ export const monsterInfo = {
   "CAPTAIN TWIN (1)": {
     en: "CAPTAIN TWIN (1)",
     kr: "캡틴 트윈 1",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2455,7 +2455,7 @@ export const monsterInfo = {
   "Poison Lizard": {
     en: "Poison Lizard",
     kr: "독 도마뱀",
-    level: 1,
+    level: 25,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2466,7 +2466,7 @@ export const monsterInfo = {
   "Big Eyed Soul": {
     en: "Big Eyed Soul",
     kr: "거대한주시자",
-    level: 1,
+    level: 26,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2477,7 +2477,7 @@ export const monsterInfo = {
   "Dark Imp": {
     en: "Dark Imp",
     kr: "다크임프",
-    level: 1,
+    level: 28,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2488,7 +2488,7 @@ export const monsterInfo = {
   "Poison Mummy": {
     en: "Poison Mummy",
     kr: "맹독미이라",
-    level: 1,
+    level: 27,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2499,7 +2499,7 @@ export const monsterInfo = {
   "Magic Imp": {
     en: "Magic Imp",
     kr: "매직임프",
-    level: 1,
+    level: 29,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2510,7 +2510,7 @@ export const monsterInfo = {
   "Evil Spirit": {
     en: "Evil Spirit",
     kr: "악령",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2521,7 +2521,7 @@ export const monsterInfo = {
   "Walking Dead": {
     en: "Walking Dead",
     kr: "워킹데드",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2532,7 +2532,7 @@ export const monsterInfo = {
   MUTANTHYDRA: {
     en: "MUTANTHYDRA",
     kr: "뮤턴트히드라",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2543,7 +2543,7 @@ export const monsterInfo = {
   "Altar Cleaner": {
     en: "Altar Cleaner",
     kr: "제단청소부",
-    level: 1,
+    level: 30,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2554,7 +2554,7 @@ export const monsterInfo = {
   "Silent Ghost": {
     en: "Silent Ghost",
     kr: "침묵의유령",
-    level: 1,
+    level: 31,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2565,7 +2565,7 @@ export const monsterInfo = {
   "Rock Golem": {
     en: "Rock Golem",
     kr: "단단한골렘",
-    level: 1,
+    level: 32,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2576,7 +2576,7 @@ export const monsterInfo = {
   "Fluid Form": {
     en: "Fluid Form",
     kr: "유동체",
-    level: 1,
+    level: 33,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2587,7 +2587,7 @@ export const monsterInfo = {
   Morphling: {
     en: "Morphling",
     kr: "모핑",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2598,7 +2598,7 @@ export const monsterInfo = {
   Mystery: {
     en: "Mystery",
     kr: "불가사의",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2609,7 +2609,7 @@ export const monsterInfo = {
   MALTARGUARDIAN: {
     en: "MALTARGUARDIAN",
     kr: "제단수호자",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2620,7 +2620,7 @@ export const monsterInfo = {
   "Cave Spider": {
     en: "Cave Spider",
     kr: "동굴거미",
-    level: 1,
+    level: 34,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2631,7 +2631,7 @@ export const monsterInfo = {
   Hairy: {
     en: "Hairy",
     kr: "털보",
-    level: 1,
+    level: 37,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2642,7 +2642,7 @@ export const monsterInfo = {
   "Cave Keeper": {
     en: "Cave Keeper",
     kr: "동굴수호자",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2653,7 +2653,7 @@ export const monsterInfo = {
   "Light Wing": {
     en: "Light Wing",
     kr: "라이트윙",
-    level: 1,
+    level: 36,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2664,7 +2664,7 @@ export const monsterInfo = {
   DARKJUNO: {
     en: "DARKJUNO",
     kr: "다크주노",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2675,7 +2675,7 @@ export const monsterInfo = {
   GRAYSKY: {
     en: "GRAYSKY",
     kr: "그레이스카이",
-    level: 1,
+    level: 38,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2686,7 +2686,7 @@ export const monsterInfo = {
   WHITEWADANGKA: {
     en: "WHITEWADANGKA",
     kr: "화이트와당카",
-    level: 1,
+    level: 40,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2697,7 +2697,7 @@ export const monsterInfo = {
   Silhouette: {
     en: "Silhouette",
     kr: "실루엣",
-    level: 1,
+    level: 41,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2708,7 +2708,7 @@ export const monsterInfo = {
   "Underground Eater": {
     en: "Underground Eater",
     kr: "지하먹보",
-    level: 1,
+    level: 43,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2719,7 +2719,7 @@ export const monsterInfo = {
   Bandageman: {
     en: "Bandageman",
     kr: "붕대인간",
-    level: 1,
+    level: 42,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2730,7 +2730,7 @@ export const monsterInfo = {
   "Reason Scream": {
     en: "Reason Scream",
     kr: "야성의소리",
-    level: 1,
+    level: 44,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2741,7 +2741,7 @@ export const monsterInfo = {
   Gluttony: {
     en: "Gluttony",
     kr: "폭식자",
-    level: 1,
+    level: 45,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",
@@ -2752,7 +2752,7 @@ export const monsterInfo = {
   THEMAMA: {
     en: "THEMAMA",
     kr: "더마마",
-    level: 1,
+    level: 46,
     "attack range": 0,
     "attack style": 0,
     "respawn time": "30 sec",

@@ -18,7 +18,7 @@ export default class Monster extends Component {
         <div className="Monster-image">
           <img src={"img/" + this.props.info.en + ".png"} alt="img" />
         </div>
-        <div className="Monster-level">14</div>
+        <div className="Monster-level">{this.props.info.level}</div>
         <div className="Monster-range">근거리</div>
         <div className="Monster-style">선공</div>
         <div className="Monster-respawn">30 초</div>
