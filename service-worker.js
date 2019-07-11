@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TWOM-Wiki/precache-manifest.af4e8ec294218346c7bd30ebcb05ca6f.js"
+  "/TWOM-Wiki/precache-manifest.a6b3568862097125b13c119fb48b8769.js"
 );
 
 self.addEventListener('message', (event) => {
