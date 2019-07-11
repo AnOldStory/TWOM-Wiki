@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40cc988860452f160b2c47f83f35e946",
+    "revision": "6b782f8c8389809eb4f09a8b8005ec2a",
     "url": "/TWOM-Wiki/index.html"
   },
   {
-    "revision": "52ed396b51fbe33d44b2",
+    "revision": "e250a3d4b117b98de8f8",
     "url": "/TWOM-Wiki/static/css/main.1085cc41.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TWOM-Wiki/static/js/2.cbc87ca0.chunk.js"
   },
   {
-    "revision": "52ed396b51fbe33d44b2",
-    "url": "/TWOM-Wiki/static/js/main.085215ad.chunk.js"
+    "revision": "e250a3d4b117b98de8f8",
+    "url": "/TWOM-Wiki/static/js/main.fc2aade6.chunk.js"
   },
   {
     "revision": "28197f9a308013508f36",
