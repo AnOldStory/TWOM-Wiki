@@ -25,7 +25,7 @@ export const monsterInfo = {
     level: 3,
     "attack range": 0,
     "attack style": 1,
-    "respawn time": "30 sec",
+    "respawn time": "30s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -36,7 +36,7 @@ export const monsterInfo = {
     level: 4,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "30s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -47,7 +47,7 @@ export const monsterInfo = {
     level: 4,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "30s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -58,7 +58,7 @@ export const monsterInfo = {
     level: 5,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "2m 33s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -69,7 +69,7 @@ export const monsterInfo = {
     level: 7,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "12m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -80,7 +80,7 @@ export const monsterInfo = {
     level: 8,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "15m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -91,7 +91,7 @@ export const monsterInfo = {
     level: 5,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -102,7 +102,7 @@ export const monsterInfo = {
     level: 6,
     "attack range": 1,
     "attack style": 1,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -113,7 +113,7 @@ export const monsterInfo = {
     level: 7,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -124,7 +124,7 @@ export const monsterInfo = {
     level: 8,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -135,7 +135,7 @@ export const monsterInfo = {
     level: 9,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -146,7 +146,7 @@ export const monsterInfo = {
     level: 10,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 55s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -157,7 +157,7 @@ export const monsterInfo = {
     level: 12,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "18m 20s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -168,7 +168,7 @@ export const monsterInfo = {
     level: 1,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -179,7 +179,7 @@ export const monsterInfo = {
     level: 8,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -190,7 +190,7 @@ export const monsterInfo = {
     level: 9,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "3m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -201,7 +201,7 @@ export const monsterInfo = {
     level: 9,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "3m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -212,7 +212,7 @@ export const monsterInfo = {
     level: 10,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "25m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -223,7 +223,7 @@ export const monsterInfo = {
     level: 12,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "48m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -234,7 +234,7 @@ export const monsterInfo = {
     level: 1,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -245,7 +245,7 @@ export const monsterInfo = {
     level: 10,
     "attack range": 0,
     "attack style": 1,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -256,7 +256,7 @@ export const monsterInfo = {
     level: 11,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -267,7 +267,7 @@ export const monsterInfo = {
     level: 12,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -278,7 +278,7 @@ export const monsterInfo = {
     level: 13,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -289,7 +289,7 @@ export const monsterInfo = {
     level: 13,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 55s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -300,7 +300,7 @@ export const monsterInfo = {
     level: 14,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -311,7 +311,7 @@ export const monsterInfo = {
     level: 18,
     "attack range": 0,
     "attack style": 1,
-    "respawn time": "30 sec",
+    "respawn time": "6hr (50-20N)m => 5hr 33m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -322,7 +322,7 @@ export const monsterInfo = {
     level: 33,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "68hr 30m - (3hr 30m)N",
     exp: 60,
     "drop item": [],
     type: 0
@@ -333,7 +333,7 @@ export const monsterInfo = {
     level: 15,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -344,7 +344,7 @@ export const monsterInfo = {
     level: 15,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "2m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -355,7 +355,7 @@ export const monsterInfo = {
     level: 15,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "11hr 23m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -366,7 +366,7 @@ export const monsterInfo = {
     level: 16,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -377,7 +377,7 @@ export const monsterInfo = {
     level: 17,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -388,7 +388,7 @@ export const monsterInfo = {
     level: 17,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -399,7 +399,7 @@ export const monsterInfo = {
     level: 18,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 55s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -410,7 +410,7 @@ export const monsterInfo = {
     level: 18,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -421,7 +421,7 @@ export const monsterInfo = {
     level: 23,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "57m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -432,7 +432,7 @@ export const monsterInfo = {
     level: 18,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -443,7 +443,7 @@ export const monsterInfo = {
     level: 19,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -454,7 +454,7 @@ export const monsterInfo = {
     level: 20,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -465,7 +465,7 @@ export const monsterInfo = {
     level: 20,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 55s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -476,10 +476,10 @@ export const monsterInfo = {
     level: 20,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
-    type: 0
+    type: 2
   },
   "AWAKEN KOOII": {
     en: "AWAKEN KOOII",
@@ -487,7 +487,7 @@ export const monsterInfo = {
     level: 26,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "63ms",
     exp: 60,
     "drop item": [],
     type: 0
@@ -499,7 +499,7 @@ export const monsterInfo = {
     level: 21,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -508,9 +508,9 @@ export const monsterInfo = {
     en: "SNAKEZARD",
     kr: "스네이크자드",
     level: 21,
-    "attack range": 0,
+    "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "6h 25m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -521,7 +521,7 @@ export const monsterInfo = {
     level: 22,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -532,7 +532,7 @@ export const monsterInfo = {
     level: 22,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 55s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -543,29 +543,7 @@ export const monsterInfo = {
     level: 23,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
-    exp: 60,
-    "drop item": [],
-    type: 0
-  },
-  EEHEEHEE: {
-    en: "EEHEEHEE",
-    kr: "이히히",
-    level: 29,
-    "attack range": 0,
-    "attack style": 0,
-    "respawn time": "30 sec",
-    exp: 60,
-    "drop item": [],
-    type: 0
-  },
-  OOHEEHEEK: {
-    en: "OOHEEHEEK",
-    kr: "우히힉",
-    level: 29,
-    "attack range": 0,
-    "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -576,7 +554,29 @@ export const monsterInfo = {
     level: 29,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "65m 20s",
+    exp: 60,
+    "drop item": [],
+    type: 0
+  },
+  EEHEEHEE: {
+    en: "EEHEEHEE",
+    kr: "이히히",
+    level: 29,
+    "attack range": 0,
+    "attack style": 0,
+    "respawn time": "1hr 6m 50s",
+    exp: 60,
+    "drop item": [],
+    type: 0
+  },
+  OOHEEHEEK: {
+    en: "OOHEEHEEK",
+    kr: "우히힉",
+    level: 29,
+    "attack range": 0,
+    "attack style": 0,
+    "respawn time": "1hr 8m 30s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -587,7 +587,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -598,7 +598,7 @@ export const monsterInfo = {
     level: 2,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -609,7 +609,7 @@ export const monsterInfo = {
     level: 25,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 50s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -620,7 +620,7 @@ export const monsterInfo = {
     level: 25,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 50s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -631,7 +631,7 @@ export const monsterInfo = {
     level: 25,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 50s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -642,7 +642,7 @@ export const monsterInfo = {
     level: 25,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 50s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -653,7 +653,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1hr 3m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -664,7 +664,7 @@ export const monsterInfo = {
     level: 26,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "2m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -675,7 +675,7 @@ export const monsterInfo = {
     level: 27,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "2m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -686,7 +686,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 55s -> Max 4",
     exp: 60,
     "drop item": [],
     type: 0
@@ -697,7 +697,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "5h 43m -> 5h 30m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -708,7 +708,7 @@ export const monsterInfo = {
     level: 18,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -719,7 +719,7 @@ export const monsterInfo = {
     level: 18,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "4m 55s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -731,7 +731,7 @@ export const monsterInfo = {
     level: 19,
     "attack range": 0,
     "attack style": 1,
-    "respawn time": "30 sec",
+    "respawn time": "4m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -742,7 +742,7 @@ export const monsterInfo = {
     level: 19,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "3m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -753,7 +753,7 @@ export const monsterInfo = {
     level: 20,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "3m 30s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -764,7 +764,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "25m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -775,7 +775,7 @@ export const monsterInfo = {
     level: 12,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "3m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -786,7 +786,7 @@ export const monsterInfo = {
     level: 14,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -797,7 +797,7 @@ export const monsterInfo = {
     level: 14,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -808,7 +808,7 @@ export const monsterInfo = {
     level: 16,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -819,7 +819,7 @@ export const monsterInfo = {
     level: 16,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -830,7 +830,7 @@ export const monsterInfo = {
     level: 18,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -841,7 +841,7 @@ export const monsterInfo = {
     level: 19,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "30m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -852,7 +852,7 @@ export const monsterInfo = {
     level: 20,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -863,7 +863,7 @@ export const monsterInfo = {
     level: 22,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -874,7 +874,7 @@ export const monsterInfo = {
     level: 22,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -885,7 +885,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -896,7 +896,7 @@ export const monsterInfo = {
     level: 23,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -907,7 +907,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -918,7 +918,7 @@ export const monsterInfo = {
     level: 27,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "30m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -929,7 +929,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -940,7 +940,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -951,7 +951,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -962,7 +962,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "5m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -973,7 +973,7 @@ export const monsterInfo = {
     level: 134,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -984,7 +984,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -995,7 +995,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1006,7 +1006,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1017,7 +1017,7 @@ export const monsterInfo = {
     level: 40,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "30m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1028,7 +1028,7 @@ export const monsterInfo = {
     level: 12,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1039,7 +1039,7 @@ export const monsterInfo = {
     level: 14,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1050,7 +1050,7 @@ export const monsterInfo = {
     level: 15,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1061,7 +1061,19 @@ export const monsterInfo = {
     level: 16,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
+    exp: 60,
+    "drop item": [],
+    type: 0
+  },
+
+  "Sunrise Flower": {
+    en: "Sunrise Flower",
+    kr: "노을에피는꽃",
+    level: 18,
+    "attack range": 1,
+    "attack style": 0,
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1072,18 +1084,7 @@ export const monsterInfo = {
     level: 16,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
-    exp: 60,
-    "drop item": [],
-    type: 0
-  },
-  "Sunrise Flower": {
-    en: "Sunrise Flower",
-    kr: "노을에피는꽃",
-    level: 18,
-    "attack range": 1,
-    "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1094,7 +1095,7 @@ export const monsterInfo = {
     level: 20,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "30m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1105,7 +1106,7 @@ export const monsterInfo = {
     level: 20,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1116,7 +1117,7 @@ export const monsterInfo = {
     level: 22,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1127,7 +1128,7 @@ export const monsterInfo = {
     level: 22,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1138,7 +1139,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1149,7 +1150,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1160,7 +1161,7 @@ export const monsterInfo = {
     level: 26,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1171,7 +1172,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "30m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1182,7 +1183,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1193,7 +1194,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1204,7 +1205,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1215,7 +1216,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1226,7 +1227,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "3m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1237,7 +1238,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1248,7 +1249,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1259,7 +1260,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1270,7 +1271,7 @@ export const monsterInfo = {
     level: 40,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "30m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1281,7 +1282,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "5m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1292,7 +1293,7 @@ export const monsterInfo = {
     level: 40,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "1m 50s",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1303,7 +1304,7 @@ export const monsterInfo = {
     level: 40,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1314,7 +1315,7 @@ export const monsterInfo = {
     level: 42,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1325,7 +1326,7 @@ export const monsterInfo = {
     level: 42,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1336,7 +1337,7 @@ export const monsterInfo = {
     level: 44,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1347,7 +1348,7 @@ export const monsterInfo = {
     level: 50,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "20hr 57m",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1358,7 +1359,7 @@ export const monsterInfo = {
     level: 26,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1369,7 +1370,7 @@ export const monsterInfo = {
     level: 29,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1380,7 +1381,7 @@ export const monsterInfo = {
     level: 27,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1391,7 +1392,7 @@ export const monsterInfo = {
     level: 35,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1402,7 +1403,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1413,7 +1414,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1424,7 +1425,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1435,7 +1436,7 @@ export const monsterInfo = {
     level: 29,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1446,7 +1447,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1457,7 +1458,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1468,7 +1469,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1479,7 +1480,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1490,7 +1491,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1501,7 +1502,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1512,7 +1513,7 @@ export const monsterInfo = {
     level: 29,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1523,7 +1524,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1534,7 +1535,7 @@ export const monsterInfo = {
     level: 33,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1545,7 +1546,7 @@ export const monsterInfo = {
     level: 35,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1556,7 +1557,7 @@ export const monsterInfo = {
     level: 35,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1567,7 +1568,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1578,7 +1579,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1589,7 +1590,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1600,7 +1601,7 @@ export const monsterInfo = {
     level: 35,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1611,7 +1612,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1622,7 +1623,7 @@ export const monsterInfo = {
     level: 37,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1633,7 +1634,7 @@ export const monsterInfo = {
     level: 35,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1644,7 +1645,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1655,7 +1656,7 @@ export const monsterInfo = {
     level: 35,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1666,7 +1667,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1677,7 +1678,7 @@ export const monsterInfo = {
     level: 37,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1688,7 +1689,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1699,7 +1700,7 @@ export const monsterInfo = {
     level: 39,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1710,7 +1711,7 @@ export const monsterInfo = {
     level: 44,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1721,7 +1722,7 @@ export const monsterInfo = {
     level: 44,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1732,7 +1733,7 @@ export const monsterInfo = {
     level: 42,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1743,7 +1744,7 @@ export const monsterInfo = {
     level: 43,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1754,7 +1755,7 @@ export const monsterInfo = {
     level: 44,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1765,7 +1766,7 @@ export const monsterInfo = {
     level: 45,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1776,7 +1777,7 @@ export const monsterInfo = {
     level: 45,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1787,7 +1788,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1798,7 +1799,7 @@ export const monsterInfo = {
     level: 20,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1809,7 +1810,7 @@ export const monsterInfo = {
     level: 20,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1820,7 +1821,7 @@ export const monsterInfo = {
     level: 21,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1831,7 +1832,7 @@ export const monsterInfo = {
     level: 23,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1842,7 +1843,7 @@ export const monsterInfo = {
     level: 25,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1853,7 +1854,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1864,7 +1865,7 @@ export const monsterInfo = {
     level: 25,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1875,7 +1876,7 @@ export const monsterInfo = {
     level: 26,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1886,7 +1887,7 @@ export const monsterInfo = {
     level: 27,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1897,7 +1898,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1908,7 +1909,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1919,7 +1920,7 @@ export const monsterInfo = {
     level: 35,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1930,7 +1931,7 @@ export const monsterInfo = {
     level: 22,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1941,7 +1942,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1952,7 +1953,7 @@ export const monsterInfo = {
     level: 26,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1963,7 +1964,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1974,7 +1975,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1985,7 +1986,7 @@ export const monsterInfo = {
     level: 29,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -1996,7 +1997,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2007,7 +2008,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2018,7 +2019,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 1,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2029,7 +2030,7 @@ export const monsterInfo = {
     level: 37,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2040,7 +2041,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2051,7 +2052,7 @@ export const monsterInfo = {
     level: 40,
     "attack range": 0,
     "attack style": 1,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2062,7 +2063,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2073,7 +2074,7 @@ export const monsterInfo = {
     level: 40,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2084,7 +2085,7 @@ export const monsterInfo = {
     level: 40,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2095,7 +2096,7 @@ export const monsterInfo = {
     level: 50,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2106,7 +2107,7 @@ export const monsterInfo = {
     level: 1,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2117,7 +2118,7 @@ export const monsterInfo = {
     level: 42,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2128,7 +2129,7 @@ export const monsterInfo = {
     level: 43,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2139,7 +2140,7 @@ export const monsterInfo = {
     level: 44,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2150,7 +2151,7 @@ export const monsterInfo = {
     level: 45,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2161,7 +2162,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2172,7 +2173,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2183,7 +2184,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2194,7 +2195,7 @@ export const monsterInfo = {
     level: 50,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2205,7 +2206,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2216,7 +2217,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2227,7 +2228,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2238,7 +2239,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2249,7 +2250,7 @@ export const monsterInfo = {
     level: 35,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2260,7 +2261,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2271,7 +2272,7 @@ export const monsterInfo = {
     level: 41,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2282,7 +2283,7 @@ export const monsterInfo = {
     level: 43,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2293,7 +2294,7 @@ export const monsterInfo = {
     level: 45,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2304,7 +2305,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2315,7 +2316,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2326,7 +2327,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2337,7 +2338,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2348,7 +2349,7 @@ export const monsterInfo = {
     level: 21,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2359,7 +2360,7 @@ export const monsterInfo = {
     level: 21,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2370,7 +2371,7 @@ export const monsterInfo = {
     level: 22,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2381,7 +2382,7 @@ export const monsterInfo = {
     level: 23,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2392,7 +2393,7 @@ export const monsterInfo = {
     level: 24,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2403,7 +2404,7 @@ export const monsterInfo = {
     level: 25,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2414,7 +2415,7 @@ export const monsterInfo = {
     level: 26,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2425,7 +2426,7 @@ export const monsterInfo = {
     level: 27,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2436,7 +2437,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2447,7 +2448,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2458,7 +2459,7 @@ export const monsterInfo = {
     level: 25,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2469,7 +2470,7 @@ export const monsterInfo = {
     level: 26,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2480,7 +2481,7 @@ export const monsterInfo = {
     level: 28,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2491,7 +2492,7 @@ export const monsterInfo = {
     level: 27,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2502,7 +2503,7 @@ export const monsterInfo = {
     level: 29,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2513,7 +2514,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2524,7 +2525,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2535,7 +2536,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 1,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2546,7 +2547,7 @@ export const monsterInfo = {
     level: 30,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2557,7 +2558,7 @@ export const monsterInfo = {
     level: 31,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2568,7 +2569,7 @@ export const monsterInfo = {
     level: 32,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2579,7 +2580,7 @@ export const monsterInfo = {
     level: 33,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2590,7 +2591,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2601,7 +2602,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2612,7 +2613,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2623,7 +2624,7 @@ export const monsterInfo = {
     level: 34,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2634,7 +2635,7 @@ export const monsterInfo = {
     level: 37,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2645,7 +2646,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2656,7 +2657,7 @@ export const monsterInfo = {
     level: 36,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2667,7 +2668,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2678,7 +2679,7 @@ export const monsterInfo = {
     level: 38,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2689,7 +2690,7 @@ export const monsterInfo = {
     level: 40,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2700,7 +2701,7 @@ export const monsterInfo = {
     level: 41,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2711,7 +2712,7 @@ export const monsterInfo = {
     level: 43,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2722,7 +2723,7 @@ export const monsterInfo = {
     level: 42,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2733,7 +2734,7 @@ export const monsterInfo = {
     level: 44,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2744,7 +2745,7 @@ export const monsterInfo = {
     level: 45,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
@@ -2755,7 +2756,7 @@ export const monsterInfo = {
     level: 46,
     "attack range": 0,
     "attack style": 0,
-    "respawn time": "30 sec",
+    "respawn time": "000",
     exp: 60,
     "drop item": [],
     type: 0
