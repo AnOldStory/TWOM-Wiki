@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TWOM-Wiki/static/css/main.752de5d0.chunk.css",
-    "main.js": "/TWOM-Wiki/static/js/main.05023045.chunk.js",
-    "main.js.map": "/TWOM-Wiki/static/js/main.05023045.chunk.js.map",
+    "main.css": "/TWOM-Wiki/static/css/main.b0f46864.chunk.css",
+    "main.js": "/TWOM-Wiki/static/js/main.62369f76.chunk.js",
+    "main.js.map": "/TWOM-Wiki/static/js/main.62369f76.chunk.js.map",
     "runtime~main.js": "/TWOM-Wiki/static/js/runtime~main.d88cfe43.js",
     "runtime~main.js.map": "/TWOM-Wiki/static/js/runtime~main.d88cfe43.js.map",
-    "static/js/2.cbc87ca0.chunk.js": "/TWOM-Wiki/static/js/2.cbc87ca0.chunk.js",
-    "static/js/2.cbc87ca0.chunk.js.map": "/TWOM-Wiki/static/js/2.cbc87ca0.chunk.js.map",
+    "static/js/2.6534c177.chunk.js": "/TWOM-Wiki/static/js/2.6534c177.chunk.js",
+    "static/js/2.6534c177.chunk.js.map": "/TWOM-Wiki/static/js/2.6534c177.chunk.js.map",
     "index.html": "/TWOM-Wiki/index.html",
-    "precache-manifest.a6b3568862097125b13c119fb48b8769.js": "/TWOM-Wiki/precache-manifest.a6b3568862097125b13c119fb48b8769.js",
+    "precache-manifest.41e7b0aa1fb89a58e52db19afc5c449d.js": "/TWOM-Wiki/precache-manifest.41e7b0aa1fb89a58e52db19afc5c449d.js",
     "service-worker.js": "/TWOM-Wiki/service-worker.js",
-    "static/css/main.752de5d0.chunk.css.map": "/TWOM-Wiki/static/css/main.752de5d0.chunk.css.map"
+    "static/css/main.b0f46864.chunk.css.map": "/TWOM-Wiki/static/css/main.b0f46864.chunk.css.map"
   }
 }
