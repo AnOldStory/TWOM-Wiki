@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 
 import { mapInfo } from "assets/translation/map.js";
 import { monsterInfo } from "assets/translation/monster.js";
@@ -139,8 +140,9 @@ export default class MainContainer extends Component {
         <SearchBox handleKeyword={this.handleKeyword} />
         <button onClick={this.handleLang}>언어 변경</button>
         <button onClick={this.handleSort}>정렬 방식 변경</button>
+        <Link to="/calc">플래티넘 결제 효율 계산기</Link>
         {this.makeList()}
-        <div>많은 내용은 아이모 Fandom에서 가져왔습니다. </div>
+        <div>대부분의 내용은 아이모 Fandom에서 가져왔습니다. </div>
       </div>
     );
   }

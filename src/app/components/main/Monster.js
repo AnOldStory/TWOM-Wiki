@@ -38,7 +38,6 @@ export default class Monster extends Component {
           {aType[this.props.lang][this.props.info["attack style"]]}
         </div>
         <div className="Monster-respawn">{this.props.info["respawn time"]}</div>
-        <div className="Monster-exp">{this.props.info["exp"]}</div>
         <div className="Monster-item">아이템</div>
         <div className="Monster-type">
           {mType[this.props.lang][this.props.info["type"]]}
